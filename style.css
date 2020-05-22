@@ -2,14 +2,18 @@
     padding-left: 30px;
 }
 
+#nav-links {
+    color: black !important;
+}
+
 #nav-override { 
-    background-color:aliceblue !important;
+    background-color:rgb(102, 198, 211) !important;
 }
 
 body {
     margin: 0;
     text-align: center;
-    background-color: aliceblue;
+    background-color: rgb(102, 198, 211) !important;
 }
 
 .hiimjenna {
@@ -51,5 +55,10 @@ body {
 
 .abouthr6 {
     width: 11%;
+    border-top: 1px solid black;
+}
+
+.abouthr7 {
+    width:16%;
     border-top: 1px solid black;
 }
